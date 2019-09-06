@@ -1,0 +1,13 @@
+/app/etc/config.php
+/app/etc/env.php
+/app/code/Magento/TestModule*
+/.grunt
+/.gitattributes
+pub/*
+var/*
+*.zip
+tvtest/*
+generated/*
+.htaccess
+*/tgz
+*.sql
